@@ -86,7 +86,8 @@ return 0;
 
 
 ## OUTPUT
-![Uploading image.png…]()
+<img width="890" height="471" alt="image" src="https://github.com/user-attachments/assets/f3d21275-fabb-4a14-a783-f53b15cb8ca9" />
+
 
 
 
